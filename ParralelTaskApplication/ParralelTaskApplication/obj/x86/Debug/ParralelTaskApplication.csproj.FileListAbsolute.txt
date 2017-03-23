@@ -1,0 +1,5 @@
+C:\Documents and Settings\XPMUser\Рабочий стол\4_2\ParralelTaskApplication\ParralelTaskApplication\bin\Debug\ParralelTaskApplication.exe
+C:\Documents and Settings\XPMUser\Рабочий стол\4_2\ParralelTaskApplication\ParralelTaskApplication\bin\Debug\ParralelTaskApplication.pdb
+C:\Documents and Settings\XPMUser\Рабочий стол\4_2\ParralelTaskApplication\ParralelTaskApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Рабочий стол\4_2\ParralelTaskApplication\ParralelTaskApplication\obj\x86\Debug\ParralelTaskApplication.exe
+C:\Documents and Settings\XPMUser\Рабочий стол\4_2\ParralelTaskApplication\ParralelTaskApplication\obj\x86\Debug\ParralelTaskApplication.pdb

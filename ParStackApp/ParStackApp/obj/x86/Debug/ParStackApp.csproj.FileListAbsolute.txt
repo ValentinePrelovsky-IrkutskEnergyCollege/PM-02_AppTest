@@ -1,0 +1,5 @@
+C:\Documents and Settings\XPMUser\Рабочий стол\ЗК_3Parallel\ParStackApp\ParStackApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Рабочий стол\ЗК_3Parallel\ParStackApp\ParStackApp\bin\Debug\ParStackApp.exe
+C:\Documents and Settings\XPMUser\Рабочий стол\ЗК_3Parallel\ParStackApp\ParStackApp\bin\Debug\ParStackApp.pdb
+C:\Documents and Settings\XPMUser\Рабочий стол\ЗК_3Parallel\ParStackApp\ParStackApp\obj\x86\Debug\ParStackApp.exe
+C:\Documents and Settings\XPMUser\Рабочий стол\ЗК_3Parallel\ParStackApp\ParStackApp\obj\x86\Debug\ParStackApp.pdb

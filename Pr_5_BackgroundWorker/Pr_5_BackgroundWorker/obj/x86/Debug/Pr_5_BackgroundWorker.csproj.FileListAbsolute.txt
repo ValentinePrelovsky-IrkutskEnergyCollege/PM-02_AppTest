@@ -1,0 +1,6 @@
+C:\Edu\PM_02_AppTest\Pr_5_BackgroundWorker\Pr_5_BackgroundWorker\bin\Debug\Pr_5_BackgroundWorker.exe
+C:\Edu\PM_02_AppTest\Pr_5_BackgroundWorker\Pr_5_BackgroundWorker\bin\Debug\Pr_5_BackgroundWorker.pdb
+C:\Edu\PM_02_AppTest\Pr_5_BackgroundWorker\Pr_5_BackgroundWorker\obj\x86\Debug\Pr_5_BackgroundWorker.Properties.Resources.resources
+C:\Edu\PM_02_AppTest\Pr_5_BackgroundWorker\Pr_5_BackgroundWorker\obj\x86\Debug\Pr_5_BackgroundWorker.csproj.GenerateResource.Cache
+C:\Edu\PM_02_AppTest\Pr_5_BackgroundWorker\Pr_5_BackgroundWorker\obj\x86\Debug\Pr_5_BackgroundWorker.exe
+C:\Edu\PM_02_AppTest\Pr_5_BackgroundWorker\Pr_5_BackgroundWorker\obj\x86\Debug\Pr_5_BackgroundWorker.pdb

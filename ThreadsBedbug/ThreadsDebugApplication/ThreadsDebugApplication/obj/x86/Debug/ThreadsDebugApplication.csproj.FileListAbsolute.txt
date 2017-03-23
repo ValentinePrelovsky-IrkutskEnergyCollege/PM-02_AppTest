@@ -1,0 +1,5 @@
+C:\Documents and Settings\XPMUser\Рабочий стол\ThreadsBedbug\ThreadsDebugApplication\ThreadsDebugApplication\bin\Debug\ThreadsDebugApplication.exe
+C:\Documents and Settings\XPMUser\Рабочий стол\ThreadsBedbug\ThreadsDebugApplication\ThreadsDebugApplication\bin\Debug\ThreadsDebugApplication.pdb
+C:\Documents and Settings\XPMUser\Рабочий стол\ThreadsBedbug\ThreadsDebugApplication\ThreadsDebugApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Рабочий стол\ThreadsBedbug\ThreadsDebugApplication\ThreadsDebugApplication\obj\x86\Debug\ThreadsDebugApplication.exe
+C:\Documents and Settings\XPMUser\Рабочий стол\ThreadsBedbug\ThreadsDebugApplication\ThreadsDebugApplication\obj\x86\Debug\ThreadsDebugApplication.pdb

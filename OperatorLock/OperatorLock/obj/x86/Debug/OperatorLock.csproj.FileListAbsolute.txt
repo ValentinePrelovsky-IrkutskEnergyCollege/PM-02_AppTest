@@ -1,0 +1,5 @@
+C:\Documents and Settings\XPMUser\Рабочий стол\Lock_1\OperatorLock\OperatorLock\bin\Debug\OperatorLock.exe
+C:\Documents and Settings\XPMUser\Рабочий стол\Lock_1\OperatorLock\OperatorLock\bin\Debug\OperatorLock.pdb
+C:\Documents and Settings\XPMUser\Рабочий стол\Lock_1\OperatorLock\OperatorLock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Рабочий стол\Lock_1\OperatorLock\OperatorLock\obj\x86\Debug\OperatorLock.exe
+C:\Documents and Settings\XPMUser\Рабочий стол\Lock_1\OperatorLock\OperatorLock\obj\x86\Debug\OperatorLock.pdb

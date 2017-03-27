@@ -1,0 +1,7 @@
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\bin\Release\MultithreadingWinApplication.exe
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\bin\Release\MultithreadingWinApplication.pdb
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Release\MultithreadingWinApplication.Form1.resources
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Release\MultithreadingWinApplication.Properties.Resources.resources
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Release\MultithreadingWinApplication.csproj.GenerateResource.Cache
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Release\MultithreadingWinApplication.exe
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Release\MultithreadingWinApplication.pdb

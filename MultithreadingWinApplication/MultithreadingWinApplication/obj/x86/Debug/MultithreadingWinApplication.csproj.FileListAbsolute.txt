@@ -1,0 +1,11 @@
+C:\Users\Valentin\AppData\Local\Temporary Projects\MultithreadingWinApplication\obj\x86\Debug\MultithreadingWinApplication.Form1.resources
+C:\Users\Valentin\AppData\Local\Temporary Projects\MultithreadingWinApplication\obj\x86\Debug\MultithreadingWinApplication.Properties.Resources.resources
+C:\Users\Valentin\AppData\Local\Temporary Projects\MultithreadingWinApplication\obj\x86\Debug\MultithreadingWinApplication.csproj.GenerateResource.Cache
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\bin\Debug\MultithreadingWinApplication.exe
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\bin\Debug\MultithreadingWinApplication.pdb
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Debug\MultithreadingWinApplication.Form1.resources
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Debug\MultithreadingWinApplication.Properties.Resources.resources
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Debug\MultithreadingWinApplication.csproj.GenerateResource.Cache
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Debug\MultithreadingWinApplication.exe
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\obj\x86\Debug\MultithreadingWinApplication.pdb
+C:\Edu\PM_02_AppTest\MultithreadingWinApplication\MultithreadingWinApplication\bin\Debug\MultithreadingWinApplication.exe.config

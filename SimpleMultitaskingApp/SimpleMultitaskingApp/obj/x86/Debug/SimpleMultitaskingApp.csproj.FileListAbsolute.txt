@@ -1,0 +1,4 @@
+C:\Edu\PM_02_AppTest\SimpleMultitaskingApp\SimpleMultitaskingApp\bin\Debug\SimpleMultitaskingApp.exe
+C:\Edu\PM_02_AppTest\SimpleMultitaskingApp\SimpleMultitaskingApp\bin\Debug\SimpleMultitaskingApp.pdb
+C:\Edu\PM_02_AppTest\SimpleMultitaskingApp\SimpleMultitaskingApp\obj\x86\Debug\SimpleMultitaskingApp.exe
+C:\Edu\PM_02_AppTest\SimpleMultitaskingApp\SimpleMultitaskingApp\obj\x86\Debug\SimpleMultitaskingApp.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMultithreadingApplication", "SimpleMultithreadingApplication\SimpleMultithreadingApplication.csproj", "{85414742-94C7-4685-928B-EDC7561C15E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMultithreadingApplication", "SimpleMultithreadingApplication\SimpleMultithreadingApplication.csproj", "{531CF087-5467-440A-8E12-F47FC05E5C7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{85414742-94C7-4685-928B-EDC7561C15E1}.Debug|x86.ActiveCfg = Debug|x86
-		{85414742-94C7-4685-928B-EDC7561C15E1}.Debug|x86.Build.0 = Debug|x86
-		{85414742-94C7-4685-928B-EDC7561C15E1}.Release|x86.ActiveCfg = Release|x86
-		{85414742-94C7-4685-928B-EDC7561C15E1}.Release|x86.Build.0 = Release|x86
+		{531CF087-5467-440A-8E12-F47FC05E5C7F}.Debug|x86.ActiveCfg = Debug|x86
+		{531CF087-5467-440A-8E12-F47FC05E5C7F}.Debug|x86.Build.0 = Debug|x86
+		{531CF087-5467-440A-8E12-F47FC05E5C7F}.Release|x86.ActiveCfg = Release|x86
+		{531CF087-5467-440A-8E12-F47FC05E5C7F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

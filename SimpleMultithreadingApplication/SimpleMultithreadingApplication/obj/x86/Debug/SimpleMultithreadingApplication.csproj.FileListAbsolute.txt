@@ -1,0 +1,4 @@
+C:\Edu\PM_02_AppTest\SimpleMultithreadingApplication\SimpleMultithreadingApplication\bin\Debug\SimpleMultithreadingApplication.exe
+C:\Edu\PM_02_AppTest\SimpleMultithreadingApplication\SimpleMultithreadingApplication\bin\Debug\SimpleMultithreadingApplication.pdb
+C:\Edu\PM_02_AppTest\SimpleMultithreadingApplication\SimpleMultithreadingApplication\obj\x86\Debug\SimpleMultithreadingApplication.exe
+C:\Edu\PM_02_AppTest\SimpleMultithreadingApplication\SimpleMultithreadingApplication\obj\x86\Debug\SimpleMultithreadingApplication.pdb

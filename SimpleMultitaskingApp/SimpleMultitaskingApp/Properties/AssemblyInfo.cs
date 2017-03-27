@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("SimpleMultithreadingApplication")]
+[assembly: AssemblyTitle("SimpleMultitaskingApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("SimpleMultithreadingApplication")]
+[assembly: AssemblyProduct("SimpleMultitaskingApp")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("fb08ca6a-ed6f-4300-bef3-5c7181df615e")]
+[assembly: Guid("9f20308f-4630-4505-b1ba-604f4d2294ae")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

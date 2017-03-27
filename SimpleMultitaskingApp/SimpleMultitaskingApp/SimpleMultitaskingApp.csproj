@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{531CF087-5467-440A-8E12-F47FC05E5C7F}</ProjectGuid>
+    <ProjectGuid>{0791A057-7FB8-4561-AD77-CE9F87C9185A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SimpleMultithreadingApplication</RootNamespace>
-    <AssemblyName>SimpleMultithreadingApplication</AssemblyName>
+    <RootNamespace>SimpleMultitaskingApp</RootNamespace>
+    <AssemblyName>SimpleMultitaskingApp</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
